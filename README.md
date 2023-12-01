@@ -1,6 +1,6 @@
 # quantia-por-extenso-SQL
 
-Feito no Oracle 10c, usando apenas comandos de DML. O output é feito em português do Brasil (PT-BR).
+Feito no Oracle 10g, usando apenas comandos de DML. O output é feito em português do Brasil (PT-BR).
 
 Há equivalentes nativos do Oracle para numerais em geral, mas apenas em inglês, até a data de desenvolvimento deste código.
 
