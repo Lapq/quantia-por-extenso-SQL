@@ -155,7 +155,7 @@ MONETARIO_EXTENSO AS (
 	      WHEN 1 THEN ' centavo'
 	      ELSE ' centavos'
 	    END
-	    , '[[:space:]]+', ' '), '[[:space:]],', ',' ), 'e e', 'e' ) 
+	    , '[[:space:]]+', ' '), '[[:space:]],', ',' ), ' e e', ' e' ) 
 	) AS QUANTIA_EXTENSO
 	
     FROM
